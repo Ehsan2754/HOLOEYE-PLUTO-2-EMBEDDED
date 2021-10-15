@@ -13,16 +13,16 @@ __all__ = [
 ]
 
 # The name of the package 
-__packagename__ = "HOLOEYE-PLUTO-2-EMBEDDED"
+__packagename__ = "holoeye_embedded"
 
-# A version number like 3.1.4 or 1.0a3 
+
 __version__ = "0.1.0"
 
 # A one-line summary of what the package does. It's like the first line of a doc string. 
-__summary__ = "This repo is an alternative interface to official API of the Holoeye PLUTO-2 Spatial Light Modulator in order to control multiple devices through RNDIS network rather than classic HDMI, though you don't need to buy multiple vide cards for communicating to all your beloved SLMs. "
+__summary__ = "An alternative interface to official API of the Holoeye PLUTO-2 Spatial Light Modulator in order to control multiple devices through RNDIS network rather than classic HDMI, though you don't need to buy multiple vide cards for communicating to all your beloved SLMs."
 
 # The URL of the package's home page 
-__url__ = "https://github.com/ehsan2754/HOLOEYE-PLUTO-2-EMBEDDED"
+__url__ = "https://github.com/ehsan2754/HOLOEYE-PLUTO-2-EMBEDDED.git"
 
 # The name of the author 
 __author__ = "Ehsan Shaghaei"

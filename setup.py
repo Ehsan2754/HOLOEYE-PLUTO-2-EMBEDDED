@@ -9,13 +9,13 @@ CLASSIFIERS = []
 INSTALL_REQUIRES = []
 
 BASE_DIR = os.path.dirname(__file__)
-PKG_DIR = os.path.join(BASE_DIR, "HOLOEYE-PLUTO-2-EMBEDDED")
+PKG_DIR = os.path.join(BASE_DIR, "holoeye_embedded")
 
 meta = {}
 with open(os.path.join(PKG_DIR, "__meta__.py")) as f:
     exec(f.read(), meta)
 
-with open(os.path.join(BASE_DIR, "README.rst")) as f:
+with open(os.path.join(BASE_DIR, "README.md")) as f:
     long_description = f.read()
 
 
