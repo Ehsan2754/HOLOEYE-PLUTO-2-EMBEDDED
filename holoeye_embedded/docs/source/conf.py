@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 #
-# HOLOEYE-PLUTO-2-EMBEDDED documentation build configuration file, created by
+# holoeye_embedded documentation build configuration file, created by
 # sphinx-quickstart on Sat May 17 11:44:24 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -17,7 +17,7 @@ import sys
 import os
 
 BASE_DIR = os.path.dirname(__file__)
-PKG_DIR = os.path.join(BASE_DIR, "..", "HOLOEYE-PLUTO-2-EMBEDDED")
+PKG_DIR = os.path.join(BASE_DIR, "..", "holoeye_embedded")
 
 meta = {}
 with open(os.path.join(PKG_DIR, "__meta__.py")) as f:
@@ -244,7 +244,8 @@ latex_documents = [
 man_pages = [
     ('index', meta['__packagename__'],
      '{__packagename__} Documentation'.format(**meta),
-     [meta['__author__'], 1)
+     [meta['__author__'], 1
+    ),
 ]
 
 # If true, show URL addresses after external links.

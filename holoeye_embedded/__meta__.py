@@ -22,7 +22,7 @@ __version__ = "0.1.0"
 __summary__ = "An alternative interface to official API of the Holoeye PLUTO-2 Spatial Light Modulator in order to control multiple devices through RNDIS network rather than classic HDMI, though you don't need to buy multiple vide cards for communicating to all your beloved SLMs."
 
 # The URL of the package's home page 
-__url__ = "https://github.com/ehsan2754/HOLOEYE-PLUTO-2-EMBEDDED.git"
+__url__ = "https://github.com/ehsan2754/HOLOEYE-PLUTO-2-EMBEDDED"
 
 # The name of the author 
 __author__ = "Ehsan Shaghaei"
