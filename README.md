@@ -151,6 +151,25 @@ You may use [```ifconfig```](https://man7.org/linux/man-pages/man8/ifconfig.8.ht
 You may use [HoRNDIS](https://www.joshuawise.com/horndis) for configuring your device connection. Make sure you preserver the address assignment for your different devices. Please refer to linux instruction or step 7 of windows instrction for a more clear example. 
 
 
-# [CHANGELOG](CHANGELOG.RST)
+# CHANGELOG
+Version 1.0.0 (2021-11-12)
+------------------------
 
-# [CONTRIBUTING](CONTRIBUTING.RST)
+* Changing device address API added.
+* numpy array support
+* Windows configuration support added.
+* Improvement on documention
+
+Version 0.1.0 (2021-10-15)
+------------------------
+
+* First release after the conversion to the perf module and move to GitHub
+* Included RNDIS and SSH API.
+
+# CONTRIBUTING
+HOLOEYE-EMBEDDED is As an open source project, contributions are welcomed of many forms.
+Examples of contributions include:
+* Code patches
+* Suggestion or Implemention of new APIs
+* Documentation improvements
+* Bug reports and patch reviews

@@ -1,4 +1,4 @@
-Version 1.1 (2021-11-12)
+Version 1.0.0 (2021-11-12)
 ------------------------
 
 * Changing device address API added.
@@ -6,7 +6,7 @@ Version 1.1 (2021-11-12)
 * Windows configuration support added.
 * Improvement on documention
 
-Version 1.0 (2021-10-15)
+Version 0.1.0 (2021-10-15)
 ------------------------
 
 * First release after the conversion to the perf module and move to GitHub
